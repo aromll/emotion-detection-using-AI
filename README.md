@@ -14,11 +14,11 @@ This project uses a Convolutional Neural Network (CNN) to detect emotions from h
 
 ## Model
 
-Due to GitHub size limits, the model is zipped as `model.zip`.
+Due to GitHub size limits, the model is zipped as `model5.h5.zip`.
 
 ###  To use:
 
 1. Unzip the model:
 
 ```bash
-unzip model.zip
+unzip model5.h5.zip

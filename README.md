@@ -8,17 +8,13 @@ This project uses a Convolutional Neural Network (CNN) to detect emotions from h
 
 - Real-time face detection with OpenCV
 - Emotion classification using a trained CNN
-- Pre-trained model included (zipped)
+- Pre-trained model included 
 
 ---
 
 ## Model
 
-Due to GitHub size limits, the model is zipped as `model5.h5.zip`.
+The model is `model5.h5`.
 
-###  To use:
 
-1. Unzip the model:
 
-```bash
-unzip model5.h5.zip
